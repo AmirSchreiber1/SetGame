@@ -5,3 +5,6 @@ The animation framework employed in this implementation may be relatively simple
 
 Screenshot:  
 <img width="226" alt="SetGameScreenshot" src="https://github.com/AmirSchreiber1/SetGame/assets/106608211/bf56ffbd-d460-4c69-a431-a1a849f7d548">
+
+UML:
+![SetUML](https://github.com/AmirSchreiber1/SetGame/assets/106608211/3abe9107-fb19-4a64-99ae-dd9fd48b77b0)
